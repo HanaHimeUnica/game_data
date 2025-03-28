@@ -1,0 +1,88 @@
+- group: 更新日志
+  list:
+    - icon: feat
+      title: "可在锅巴中配置是否覆盖喵喵插件抽卡记录"
+    - icon: style
+      title: "5.5数据资源&更新按钮&优化数据迁移逻辑&更新短名&抽卡统计UI"
+    - icon: fix
+      title: "*差分宇宙&卡池数据"
+    - icon: feat
+      title: "#账号列表查询米游社id下所有游戏"
+    - icon: feat
+      title: "支持未定事件簿绑定UID&查询请刷新CK后使用"
+    - icon: style
+      title: "优化uid列表&角色命座好感度图标"
+    - icon: fix
+      title: "原神星铁注册时间&模拟抽卡武器命定值改为1"
+    - icon: style
+      title: "优化帮助icon&代码逻辑&压缩图片"
+    - icon: fix
+      title: "原神前瞻汇总&前瞻兑换码&fp"
+    - icon: style
+      title: "可在锅巴配置UID列表背景图可自定义详看锅巴"
+    - icon: feat
+      title: "SR体力增加额外拟合值，ZZZ体力增加丽都周纪&悬赏委托"
+    - icon: feat
+      title: "合并查询绝区零体力，可在锅巴配置"
+    - icon: feat
+      title: "支持导入UIGF4.0抽卡记录默认V4"
+    - icon: style
+      title: "优化幻想真境剧诗支持查询上期和更多内容"
+    - icon: feat
+      title: "优化支持锅巴配置"
+    - icon: style
+      title: "优化委托查询"
+    - icon: style
+      title: "优化项目结构"
+    - icon: feat
+      title: "原神星铁成就查询"
+    - icon: fix
+      title: "查委托"
+    - icon: feat
+      title: "御神签"
+    - icon: feat
+      title: "全量更新抽卡记录，修复抽卡记录发生的数据错误"
+    - icon: fix
+      title: "主角无天赋数据"
+    - icon: feat
+      title: "可使用锅巴，小叶面板进行插件配置"
+    - icon: feat
+      title: "宝箱 查询获取宝箱总数，地图获取量"
+    - icon: fix
+      title: "武器"
+    - icon: style
+      title: "优化体力绑定步骤"
+    - icon: perf
+      title: "修改插件名字，防止强制更新&插件导入报错"
+    - icon: feat
+      title: "不可知域"
+    - icon: feat
+      title: "新增绑定设备功能解决部分验证码"
+    - icon: feat
+      title: "原神绝区零获取抽卡链接，导出抽卡链接"
+    - icon: chore
+      title: "原神5.0版本资源"
+    - icon: style
+      title: "优化uid列表 & 更新日志 & 游戏探索"
+    - icon: feat
+      title: "原神星铁绝区零前瞻汇总&资源统计&兑换码"
+    - icon: feat
+      title: "原神绝区零更新抽卡记录"
+    - icon: feat
+      title: "绝区零角色查询，探索，攻略素材查询"
+    - icon: feat
+      title: "星铁角色查询，深渊查询，探索，素材查询"
+    - icon: feat
+      title: "幻想真镜剧诗&原神材料背包查询"
+    - icon: feat
+      title: "扫码登录 七圣召唤数据"
+    - icon: feat
+      title: "原神星铁注册时间"
+    - icon: style
+      title: "优化区分原神，星铁，绝区零，米游社功能"
+    - icon: style
+      title: "优化云崽帮助 原石 部分资源使用miao-plugin"
+    - icon: feat
+      title: "导入小助手抽卡记录仅支持原神"
+    - icon: perf
+      title: "优化按钮统一路径"

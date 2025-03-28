@@ -1,0 +1,32 @@
+# 等级
+level: 70
+
+# 成就
+achievement: 1242
+
+# 战利品
+chest: 1127
+
+# 梦境护照贴纸
+dream_paster: 243
+
+# 模拟宇宙技能树激活
+unlocked_skill: 42
+
+# 模拟宇宙解锁奇物
+unlocked_miracle: 61
+
+# 模拟宇宙解锁祝福
+unlocked_buff: 232
+
+# 差分宇宙总结点
+skill_tree: 37
+
+# 寰宇蝗灾行者之道
+locust_narrow: 31
+
+# 寰宇蝗灾已解锁奇物
+locust_miracle: 66
+
+# 寰宇蝗灾已解锁事件
+locust_event: 75

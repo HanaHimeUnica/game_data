@@ -1,0 +1,217 @@
+- group: 原神指令
+  list:
+    - icon: 1
+      title: "#角色 #角色列表"
+      desc: "原神角色数据"
+    - icon: 2
+      title: "#成就"
+      desc: "原神成就查询"
+    - icon: 3
+      title: "#探索"
+      desc: "宝箱成就数据"
+    - icon: 4
+      title: "#深渊 #深渊12层"
+      desc: 深渊数据，打完请2小时后查询
+    - icon: 5
+      title: "#幻想真镜剧诗"
+      desc: 幻想真镜剧诗
+    - icon: 6
+      title: "#五星 #武器 "
+      desc: 原神角色武器背包
+    - icon: 7
+      title: "#角色养成 攻略 素材"
+      desc: 计算角色养成消耗素材
+    - icon: 8
+      title: "七圣卡组"
+      desc: "#七圣战绩 数据 卡牌列表"
+    - icon: 9
+      title: "#尘歌壶模数(id)"
+      desc: 查询尘歌壶id所消耗的材料
+    - icon: 10
+      title: "#注册时间"
+      desc: "原神注册时间"
+    - icon: 11
+      title: "#(更新)?充值记录"
+      desc: "查看六个月内充值记录"
+    - icon: 12
+      title: "#材料背包"
+      desc: "统计游戏内背包材料数量"
+    - icon: 13
+      title: "#原石 #原石统计"
+      desc: 查询原石，需要绑定Cookie
+    - icon: 14
+      title: "#全部记录"
+      desc: 统计原神抽卡数据
+    - icon: 15
+      title: "#更新小助手抽卡记录"
+      desc: "从提瓦特小助手导入抽卡记录"
+    - icon: 16
+      title: "#原石预估"
+      desc: "版本原石统计"
+    - icon: 17
+      title: "#兑换码 #兑换码使用"
+      desc: "原神前瞻直播兑换码 使用"
+    - icon: 74
+      title: "#生日月历"
+      desc: "原神前瞻直播兑换码 使用"
+    - icon: 67
+      title: "#御神签"
+      desc: "原神鸣神大社抽签"
+    - icon: 68
+      title: "#大病初愈"
+      desc: "原神委托成就查询"
+- group: 星铁指令
+  list:
+    - icon: 18
+      title: "*角色 *角色列表"
+      desc: "星铁角色数据"
+    - icon: 19
+      title: "*成就"
+      desc: "星铁成就查询"
+    - icon: 20
+      title: "*探索  *宝箱"
+      desc: "探索 宝箱 数据"
+    - icon: 6
+      title: "*武器 "
+      desc: 星铁武器背包
+    - icon: 22
+      title: "*注册时间"
+      desc: "星铁注册时间"
+    - icon: 23
+      title: "*虚构叙事"
+      desc: "虚构叙事数据"
+    - icon: 23
+      title: "*忘却之庭"
+      desc: "忘却之庭数据"
+    - icon: 23
+      title: "*末日幻影"
+      desc: "末日幻影数据"
+    - icon: 24
+      title: "*模拟宇宙"
+      desc: "模拟宇宙数据"
+    - icon: 25
+      title: "*差分宇宙"
+      desc: "差分宇宙数据"
+    - icon: 26
+      title: "*寰宇蝗灾"
+      desc: "寰宇蝗灾数据"
+    - icon: 27
+      title: "*黄金机械"
+      desc: "黄金机械数据"
+    - icon: 28
+      title: "*不可知域"
+      desc: "不可知域数据"
+    - icon: 29
+      title: "*角色素材 攻略"
+      desc: "星铁角色攻略 素材"
+    - icon: 30
+      title: "*角色养成"
+      desc: 计算角色养成消耗素材
+    - icon: 31
+      title: "*星琼 *星琼统计"
+      desc: 查询星琼，需要绑定Cookie
+    - icon: 32
+      title: "*全部记录"
+      desc: 统计星铁抽卡数据
+    - icon: 33
+      title: "*抽卡记录"
+      desc: 统计星铁抽卡数据
+    - icon: 34
+      title: "*星琼预估"
+      desc: "版本星琼统计"
+    - icon: 17
+      title: "*兑换码  *兑换码使用"
+      desc: "星铁前瞻直播兑换码"
+- group: 绝区零指令
+  list:
+    - icon: 35
+      title: "%角色 %角色列表"
+      desc: "绝区零角色查询"
+    - icon: 36
+      title: "%邦布"
+      desc: 邦布列表
+    - icon: 39
+      title: "%探索  %卡片"
+      desc: "绝区零探索"
+    - icon: 6
+      title: "%武器 "
+      desc: 绝区零武器背包
+    - icon: 17
+      title: "%兑换码  %兑换码使用"
+      desc: 绝区零前瞻直播兑换码
+    - icon: 43
+      title: "%角色素材 攻略"
+      desc: "绝区零角色攻略 素材"
+    - icon: 45
+      title: "%菲林预估"
+      desc: "版本菲林统计"
+- group: 崩坏三指令
+  list:
+    - icon: 46
+      title: "#水晶预估"
+      desc: 版本水晶统计
+    - icon: 17
+      title: "#崩坏三兑换码"
+      desc: 崩坏三前瞻直播兑换码
+- group: 未定事件簿指令
+  list:
+    - icon: 50
+      title: "&角色"
+      desc: 未定事件簿角色查询
+- group: 米游社指令
+  list:
+    - icon: 66
+      title: "#扫码登录"
+      desc: 绑定Stoken&Cookie
+    - icon: 57
+      title: "#账号列表"
+      desc: 查询当前米游社用户下所有游戏
+    - icon: 58
+      title: "#删除Cookie"
+      desc: 删除米游社Cookie
+    - icon: 53
+      title: "# * % &(绑定|删除)uid "
+      desc: 绑定查看游戏uid
+    - icon: 54
+      title: "# * % & uid(1)"
+    - icon: 55
+      title: "#绑定设备id(帮助)"
+      desc: 解决验证码
+    - icon: 56
+      title: 导出记录、导入记录
+      desc: 导出导入json抽卡记录
+    - icon: 57
+      title: "#公告 #资讯 #公告列表"
+      desc: "米游社公告资讯"
+    - icon: 47
+      title: "#前瞻信息"
+      desc: 原神前瞻信息汇总
+    - icon: 48
+      title: "*前瞻信息"
+      desc: 星铁前瞻信息汇总
+    - icon: 49
+      title: "*前瞻信息"
+      desc: 绝区零前瞻信息汇总
+    - icon: 59
+      title: "#胡桃别名"
+      desc: 设置原神角色别名
+    - icon: 60
+      title: "*阿格莱雅别名"
+      desc: 设置星铁角色别名
+    - icon: 61
+      title: "#体力"
+      desc: 查询原神星铁绝区零体力
+- group: 插件指令(仅主人可用，详细配置请在锅巴配置)
+  list:
+    - icon: 62
+      title: "#原神版本"
+      desc: 查看插件版本
+    - icon: 63
+      title: "#原神更新"
+      desc: 更新插件
+    - icon: 64
+      title: "#用户统计"
+      desc: 统计用户数
+    - icon: 65
+      title: "#刷新 重置用户缓存 "
+      desc: 刷新缓存
